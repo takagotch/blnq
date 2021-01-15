@@ -3,7 +3,7 @@
 https://studio.blnq.io/mydashboard
 
 
-######
+###### Pure html, css, js & json
 
 ```
 ```
